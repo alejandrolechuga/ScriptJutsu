@@ -1,5 +1,7 @@
+<img src="https://github.com/alejandrolechuga/ScriptJutsu/blob/master/assets/logo.png?raw=true" />
+
 # ScriptJutsu 
-Bienvenido al aprendizaje perpetuo ! 
+Aprendizaje Perpetuo
 
 
 ## JavaScript Zero

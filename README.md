@@ -5,6 +5,8 @@ Aprendizaje Perpetuo
 
 
 ## JavaScript Zero
+Esta lista cubre los conocimientos basicos de JavaScript incluyendo las actualizaciones que tiene ES6. 
+
 [Episodio 0: Variables , declaración, inicialización y asignación](
 https://youtu.be/hVs7zkNWrLc)
 
@@ -14,7 +16,7 @@ https://youtu.be/hVs7zkNWrLc)
 
 [Episodio 3 : Tipos de Datos !](https://youtu.be/UlqAPlpthZM) 
 
-[Episodio  3.1: Cadena de texto de multiple lineas / template strings](https://youtu.be/hkPC4ptBWl4)
+[Episodio 3.1: Cadena de texto de multiple lineas / template strings](https://youtu.be/hkPC4ptBWl4)
 
 [Episodio 4: Objetos y Arreglos](https://youtu.be/K-h3QGWIxOk)
 

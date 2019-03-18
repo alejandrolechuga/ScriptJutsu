@@ -1,4 +1,4 @@
-<img src="https://github.com/alejandrolechuga/ScriptJutsu/blob/master/assets/logo.png?raw=true" />
+<img width="300" src="https://github.com/alejandrolechuga/ScriptJutsu/blob/master/assets/logo.png?raw=true" />
 
 # ScriptJutsu 
 Aprendizaje Perpetuo

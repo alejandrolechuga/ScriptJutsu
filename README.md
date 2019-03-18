@@ -46,7 +46,7 @@ https://youtu.be/hVs7zkNWrLc)
 
 [Episodio 14: Ciclos / Do While (while vs do-while)](https://youtu.be/xA88rLHpmuU)
 
-[Episodio 15: Ciclo For-in] (https://youtu.be/2pEFdYGdmAs)
+[Episodio 15: Ciclo For-in](https://youtu.be/2pEFdYGdmAs)
 
 [Episodio 16: Ciclo For-of con Cadenas de texto (strings)](https://youtu.be/saFbbLCYxtU)
 
